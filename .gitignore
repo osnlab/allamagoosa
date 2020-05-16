@@ -1,0 +1,14 @@
+# Dependencies
+package-lock.json
+
+# Dependency directories
+node_modules/
+
+# nuxt.js build output
+.nuxt
+
+# Nuxt generate
+dist
+
+# External contents
+contents
